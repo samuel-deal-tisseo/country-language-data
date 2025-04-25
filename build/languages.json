@@ -1,0 +1,6977 @@
+{
+  "AD": [
+    {
+      "label": "catalan",
+      "code": "ca",
+      "percent": 44.1,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "castilian",
+      "code": null,
+      "percent": 40.3,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 13.5,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 10.0,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 3.0,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "AE": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "hindi",
+      "code": "hi",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "malayalam",
+      "code": "ml",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "urdu",
+      "code": "ur",
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "pashto",
+      "code": "ps",
+      "percent": null,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "tagalog",
+      "code": "tl",
+      "percent": null,
+      "official": false,
+      "position": 7
+    }
+  ],
+  "AF": [
+    {
+      "label": "afghan persian or dari",
+      "code": null,
+      "percent": 77.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "pashto",
+      "code": "ps",
+      "percent": 48.0,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "uzbeki",
+      "code": null,
+      "percent": 11.0,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 6.0,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "turkmani",
+      "code": null,
+      "percent": 3.0,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "urdu",
+      "code": "ur",
+      "percent": 3.0,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "pashaie",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "nuristani",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": 1.0,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "balochi",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 10
+    }
+  ],
+  "AG": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "AL": [
+    {
+      "label": "albanian",
+      "code": "sq",
+      "percent": 98.8,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "greek",
+      "code": "el",
+      "percent": 0.5,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 0.6,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "AM": [
+    {
+      "label": "armenian",
+      "code": "hy",
+      "percent": 97.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "kurmanji",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "AO": [
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 71.2,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "umbundu",
+      "code": "umb",
+      "percent": 23.0,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "kikongo",
+      "code": null,
+      "percent": 8.2,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "kimbundu",
+      "code": "kmb",
+      "percent": 7.8,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "chokwe",
+      "code": null,
+      "percent": 6.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "nhaneca",
+      "code": null,
+      "percent": 3.4,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "nganguela",
+      "code": null,
+      "percent": 3.1,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "fiote",
+      "code": null,
+      "percent": 2.4,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "kwanhama",
+      "code": null,
+      "percent": 2.3,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "muhumbi",
+      "code": null,
+      "percent": 2.1,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "luvale",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 11
+    }
+  ],
+  "AR": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "german",
+      "code": "de",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "AS": [
+    {
+      "label": "samoan",
+      "code": "sm",
+      "percent": 87.9,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 3.3,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "tongan",
+      "code": "to",
+      "percent": 2.1,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other pacific islander",
+      "code": null,
+      "percent": 4.1,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "asian languages",
+      "code": null,
+      "percent": 2.1,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "AT": [
+    {
+      "label": "german",
+      "code": "de",
+      "percent": 88.6,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "turkish",
+      "code": "tr",
+      "percent": 2.3,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "serbian",
+      "code": "sr",
+      "percent": 2.2,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "croatian",
+      "code": "hr",
+      "percent": 1.6,
+      "official": true,
+      "position": 4
+    }
+  ],
+  "AU": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 72.0,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "mandarin",
+      "code": null,
+      "percent": 2.7,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": 1.4,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "vietnamese",
+      "code": "vi",
+      "percent": 1.3,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "cantonese",
+      "code": "yue",
+      "percent": 1.2,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 15.7,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "AW": [
+    {
+      "label": "papiamento",
+      "code": "pap",
+      "percent": 69.4,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 13.7,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 7.1,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "dutch",
+      "code": "nl",
+      "percent": 6.1,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "chinese",
+      "code": "zh",
+      "percent": 1.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 1.7,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "AZ": [
+    {
+      "label": "azerbaijani",
+      "code": "az",
+      "percent": 92.5,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 1.4,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "armenian",
+      "code": "hy",
+      "percent": 1.4,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "BA": [
+    {
+      "label": "bosnian",
+      "code": "bs",
+      "percent": 52.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "serbian",
+      "code": "sr",
+      "percent": 30.8,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "croatian",
+      "code": "hr",
+      "percent": 14.6,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 1.6,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "BB": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "BD": [
+    {
+      "label": "bangla",
+      "code": null,
+      "percent": 98.8,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "BE": [
+    {
+      "label": "dutch",
+      "code": "nl",
+      "percent": 60.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 40.0,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "german",
+      "code": "de",
+      "percent": null,
+      "official": true,
+      "position": 3
+    }
+  ],
+  "BF": [
+    {
+      "label": "mossi",
+      "code": "mos",
+      "percent": 52.9,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "fula",
+      "code": null,
+      "percent": 7.8,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "gourmantche",
+      "code": null,
+      "percent": 6.8,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "dyula",
+      "code": "dyu",
+      "percent": 5.7,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "bissa",
+      "code": null,
+      "percent": 3.3,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "gurunsi",
+      "code": null,
+      "percent": 3.2,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 2.2,
+      "official": true,
+      "position": 7
+    },
+    {
+      "label": "bwamu",
+      "code": null,
+      "percent": 2.0,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "dagara",
+      "code": null,
+      "percent": 2.0,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "san",
+      "code": null,
+      "percent": 1.7,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "marka",
+      "code": null,
+      "percent": 1.6,
+      "official": false,
+      "position": 11
+    },
+    {
+      "label": "bobo",
+      "code": null,
+      "percent": 1.5,
+      "official": false,
+      "position": 12
+    },
+    {
+      "label": "senufo",
+      "code": null,
+      "percent": 1.5,
+      "official": false,
+      "position": 13
+    },
+    {
+      "label": "lobi",
+      "code": null,
+      "percent": 1.2,
+      "official": false,
+      "position": 14
+    }
+  ],
+  "BG": [
+    {
+      "label": "bulgarian",
+      "code": "bg",
+      "percent": 77.3,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "turkish",
+      "code": "tr",
+      "percent": 7.9,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "romani",
+      "code": null,
+      "percent": 3.5,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "BH": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "farsi",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "urd",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "BI": [
+    {
+      "label": "kirundi",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 3
+    }
+  ],
+  "BJ": [
+    {
+      "label": "55 languages; french (official); fon (a gbe language)",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "yom",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "including bariba and fulfuld",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "BL": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "englis",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "BM": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "portugues",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "BN": [
+    {
+      "label": "malay",
+      "code": "ms",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "chinese dialect",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "BO": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 68.1,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "quechua",
+      "code": "qu",
+      "percent": 17.2,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "aymara",
+      "code": "ay",
+      "percent": 10.5,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "guarani",
+      "code": "gn",
+      "percent": 0.6,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 1.5,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "BR": [
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "german",
+      "code": "de",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "japanese",
+      "code": "ja",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "BS": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "BT": [
+    {
+      "label": "sharchopkha",
+      "code": null,
+      "percent": 28.0,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "dzongkha",
+      "code": "dz",
+      "percent": 24.0,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "lhotshamkha",
+      "code": null,
+      "percent": 22.0,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "BW": [
+    {
+      "label": "setswana",
+      "code": null,
+      "percent": 77.3,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "sekalanga",
+      "code": null,
+      "percent": 7.4,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "shekgalagadi",
+      "code": null,
+      "percent": 3.4,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 2.8,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "zezuru",
+      "code": null,
+      "percent": 2.0,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "sesarwa",
+      "code": null,
+      "percent": 1.7,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "sembukushu",
+      "code": null,
+      "percent": 1.6,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "ndebele",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 8
+    }
+  ],
+  "BY": [
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 71.4,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "belarusian",
+      "code": "be",
+      "percent": 26.0,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 0.3,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "BZ": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 62.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 56.6,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "creole",
+      "code": null,
+      "percent": 44.6,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "maya",
+      "code": null,
+      "percent": 10.5,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "german",
+      "code": "de",
+      "percent": 3.2,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "garifuna",
+      "code": null,
+      "percent": 2.9,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 1.8,
+      "official": false,
+      "position": 7
+    }
+  ],
+  "CA": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 87.1,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 29.1,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "chinese languages",
+      "code": null,
+      "percent": 4.2,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 3.2,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "punjabi",
+      "code": "pa",
+      "percent": 2.6,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": 2.4,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "tagalog",
+      "code": "tl",
+      "percent": 2.3,
+      "official": false,
+      "position": 7
+    }
+  ],
+  "CC": [
+    {
+      "label": "malay",
+      "code": "ms",
+      "percent": 68.8,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 22.3,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "CD": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "lingala",
+      "code": "ln",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "kingwana",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "kikongo",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "tshilub",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "CF": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "sangho",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "tribal language",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "CG": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french lingala and monokutuba",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "CH": [
+    {
+      "label": "german",
+      "code": "de",
+      "percent": 62.1,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 22.8,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": 8.0,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 5.7,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 3.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "albanian",
+      "code": "sq",
+      "percent": 3.3,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "serbo-croatian",
+      "code": "sh",
+      "percent": 2.3,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 2.3,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "romansh",
+      "code": "rm",
+      "percent": 0.5,
+      "official": true,
+      "position": 9
+    }
+  ],
+  "CK": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 86.4,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "cook islands maori",
+      "code": null,
+      "percent": 76.2,
+      "official": true,
+      "position": 2
+    }
+  ],
+  "CL": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 99.5,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 10.2,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "indigenous",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 2.3,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "CM": [
+    {
+      "label": "24 major african language groups",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 2
+    }
+  ],
+  "CN": [
+    {
+      "label": "standard chinese or mandarin",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "yue",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "wu",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "minbei",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "minnan",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "CO": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 98.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "indigenous",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "CR": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "englis",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "CV": [
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "CW": [
+    {
+      "label": "papiamento",
+      "code": "pap",
+      "percent": 80.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "dutch",
+      "code": "nl",
+      "percent": 8.8,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 5.6,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 3.1,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 2.3,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "CX": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 27.6,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "mandarin",
+      "code": null,
+      "percent": 17.2,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "malay",
+      "code": "ms",
+      "percent": 17.1,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "cantonese",
+      "code": "yue",
+      "percent": 3.9,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "min nan",
+      "code": null,
+      "percent": 1.6,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "tagalog",
+      "code": "tl",
+      "percent": 1.0,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 4.5,
+      "official": false,
+      "position": 7
+    }
+  ],
+  "CY": [
+    {
+      "label": "greek",
+      "code": "el",
+      "percent": 80.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "turkish",
+      "code": "tr",
+      "percent": 0.2,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 4.1,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "romanian",
+      "code": "ro",
+      "percent": 2.9,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 2.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "bulgarian",
+      "code": "bg",
+      "percent": 2.2,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": 1.2,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "filipino",
+      "code": "fil",
+      "percent": 1.1,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 4.3,
+      "official": false,
+      "position": 9
+    }
+  ],
+  "CZ": [
+    {
+      "label": "czech",
+      "code": "cs",
+      "percent": 88.4,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "slovak",
+      "code": "sk",
+      "percent": 1.5,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 2.6,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "DE": [
+    {
+      "label": "german",
+      "code": "de",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "frisian",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "sorbian",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "and romani are official minority languages",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "danish",
+      "code": "da",
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "lower sorbian",
+      "code": "dsb",
+      "percent": null,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "upper sorbian",
+      "code": "hsb",
+      "percent": null,
+      "official": false,
+      "position": 9
+    }
+  ],
+  "DJ": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "somali",
+      "code": "so",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "afa",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "DK": [
+    {
+      "label": "danish",
+      "code": "da",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "faroese",
+      "code": "fo",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "greenlandic",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "german",
+      "code": "de",
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "DM": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french patoi",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "DZ": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "tamazight",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "shawiya",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "mzab",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "EC": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 98.6,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "indigenous",
+      "code": null,
+      "percent": 3.9,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "foreign",
+      "code": null,
+      "percent": 2.8,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "EE": [
+    {
+      "label": "estonian",
+      "code": "et",
+      "percent": 67.2,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 28.5,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 3.7,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "EG": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "ER": [
+    {
+      "label": "tigrinya",
+      "code": "ti",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "tigre",
+      "code": "tig",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "kunama",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "afar",
+      "code": "aa",
+      "percent": null,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "ES": [
+    {
+      "label": "castilian spanish",
+      "code": null,
+      "percent": 74.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "catalan",
+      "code": "ca",
+      "percent": 17.0,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "galician",
+      "code": "gl",
+      "percent": 7.0,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "basque",
+      "code": "eu",
+      "percent": 2.0,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "aranese",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 5
+    }
+  ],
+  "ET": [
+    {
+      "label": "oromo",
+      "code": "om",
+      "percent": 33.8,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "amharic",
+      "code": "am",
+      "percent": 29.3,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "somali",
+      "code": "so",
+      "percent": 6.2,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "tigrigna",
+      "code": null,
+      "percent": 5.9,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "sidamo",
+      "code": "sid",
+      "percent": 4.0,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "wolaytta",
+      "code": "wal",
+      "percent": 2.2,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "gurage",
+      "code": null,
+      "percent": 2.0,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "afar",
+      "code": "aa",
+      "percent": 1.7,
+      "official": true,
+      "position": 8
+    },
+    {
+      "label": "hadiyya",
+      "code": null,
+      "percent": 1.7,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "gamo",
+      "code": null,
+      "percent": 1.5,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "gedeo",
+      "code": null,
+      "percent": 1.3,
+      "official": false,
+      "position": 11
+    },
+    {
+      "label": "opuuo",
+      "code": null,
+      "percent": 1.2,
+      "official": false,
+      "position": 12
+    },
+    {
+      "label": "kafa",
+      "code": null,
+      "percent": 1.1,
+      "official": false,
+      "position": 13
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 8.1,
+      "official": false,
+      "position": 14
+    }
+  ],
+  "FI": [
+    {
+      "label": "finnish",
+      "code": "fi",
+      "percent": 85.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "swedish",
+      "code": "sv",
+      "percent": 5.2,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 1.7,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "FJ": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "itaukei",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 2
+    }
+  ],
+  "FK": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 89.0,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 7.7,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "FM": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "chuukese",
+      "code": "chk",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "kosrean",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "pohnpeian",
+      "code": "pon",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "yapese",
+      "code": "yap",
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "FO": [
+    {
+      "label": "faroese",
+      "code": "fo",
+      "percent": 93.8,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "danish",
+      "code": "da",
+      "percent": 3.2,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "FR": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 100.0,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "GA": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "fang",
+      "code": "fan",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "myene",
+      "code": "mye",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "nzebi",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "bapounou",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "GB": [
+    {
+      "label": "englis",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    }
+  ],
+  "GD": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french patoi",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "GE": [
+    {
+      "label": "georgian",
+      "code": "ka",
+      "percent": 87.6,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "azeri",
+      "code": null,
+      "percent": 6.2,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "armenian",
+      "code": "hy",
+      "percent": 3.9,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 1.2,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "GG": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "norman-french dialect spoken in country district",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "GH": [
+    {
+      "label": "asante",
+      "code": null,
+      "percent": 16.0,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "ewe",
+      "code": "ee",
+      "percent": 14.0,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "fante",
+      "code": null,
+      "percent": 11.6,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "boron",
+      "code": null,
+      "percent": 4.9,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "dagomba",
+      "code": null,
+      "percent": 4.4,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "dangme",
+      "code": null,
+      "percent": 4.2,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "dagarte",
+      "code": null,
+      "percent": 3.9,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "kokomba",
+      "code": null,
+      "percent": 3.5,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "akyem",
+      "code": null,
+      "percent": 3.2,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "ga",
+      "code": "gaa",
+      "percent": 3.1,
+      "official": false,
+      "position": 10
+    }
+  ],
+  "GI": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "portugues",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "GL": [
+    {
+      "label": "greenlandic",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "danish",
+      "code": "da",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "englis",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "GM": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "mandinka",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "wolof",
+      "code": "wo",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "fula",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "other indigenous vernacular",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "GN": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "pular",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "maninka",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "susu",
+      "code": "sus",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "other native language",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "GQ": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 67.6,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 3
+    }
+  ],
+  "GR": [
+    {
+      "label": "greek",
+      "code": "el",
+      "percent": 99.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "GT": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 69.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "maya languages",
+      "code": null,
+      "percent": 29.7,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "GU": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 43.3,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "filipino",
+      "code": "fil",
+      "percent": 24.9,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "chamorro",
+      "code": "ch",
+      "percent": 16.0,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other pacific island languages",
+      "code": null,
+      "percent": 9.4,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "GW": [
+    {
+      "label": "portuguese-based creole",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "pular",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "manding",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "GY": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "guyanese creole",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "amerindian languages",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "indian languages",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "HK": [
+    {
+      "label": "cantonese",
+      "code": "yue",
+      "percent": 85.4,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 4.5,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "putonghua",
+      "code": null,
+      "percent": 2.2,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "other chinese dialects",
+      "code": null,
+      "percent": 2.8,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 2.0,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "HN": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "amerindian dialect",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "HR": [
+    {
+      "label": "croatian",
+      "code": "hr",
+      "percent": 95.2,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "serbian",
+      "code": "sr",
+      "percent": 1.2,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "HT": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "HU": [
+    {
+      "label": "hungarian",
+      "code": "hu",
+      "percent": 98.8,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 25.3,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "german",
+      "code": "de",
+      "percent": 12.6,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 2.1,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 1.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "romanian",
+      "code": "ro",
+      "percent": 1.4,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "ID": [
+    {
+      "label": "bahasa indonesia",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "dutch",
+      "code": "nl",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "local dialects",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "IE": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "IL": [
+    {
+      "label": "hebrew",
+      "code": "he",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "IM": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 1
+    }
+  ],
+  "IN": [
+    {
+      "label": "hindi",
+      "code": "hi",
+      "percent": 43.6,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "bengali",
+      "code": "bn",
+      "percent": 8.0,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "marathi",
+      "code": "mr",
+      "percent": 6.9,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "telugu",
+      "code": "te",
+      "percent": 6.7,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "tamil",
+      "code": "ta",
+      "percent": 5.7,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "gujarati",
+      "code": "gu",
+      "percent": 4.6,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "urdu",
+      "code": "ur",
+      "percent": 4.2,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "kannada",
+      "code": "kn",
+      "percent": 3.6,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "odia",
+      "code": null,
+      "percent": 3.1,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "malayalam",
+      "code": "ml",
+      "percent": 2.9,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "punjabi",
+      "code": "pa",
+      "percent": 2.7,
+      "official": false,
+      "position": 11
+    },
+    {
+      "label": "assamese",
+      "code": "as",
+      "percent": 1.3,
+      "official": false,
+      "position": 12
+    },
+    {
+      "label": "maithili",
+      "code": "mai",
+      "percent": 1.1,
+      "official": false,
+      "position": 13
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 5.6,
+      "official": true,
+      "position": 14
+    }
+  ],
+  "IQ": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "kurdish",
+      "code": "ku",
+      "percent": null,
+      "official": true,
+      "position": 2
+    }
+  ],
+  "IR": [
+    {
+      "label": "persian farsi",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "azeri",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "kurdish",
+      "code": "ku",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "gilaki and mazandarani",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "luri",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "IS": [
+    {
+      "label": "icelandic",
+      "code": "is",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "polish",
+      "code": "pl",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "nordic languages",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "germa",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "IT": [
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "german",
+      "code": "de",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "slovene",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "JE": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 94.5,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 4.6,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "JM": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "jamaican patoi",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "JO": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "JP": [
+    {
+      "label": "japanes",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    }
+  ],
+  "KE": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "kiswahili",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "numerous indigenous language",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "KG": [
+    {
+      "label": "kyrgyz",
+      "code": "ky",
+      "percent": 71.4,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "uzbek",
+      "code": "uz",
+      "percent": 14.4,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 9.0,
+      "official": true,
+      "position": 3
+    }
+  ],
+  "KH": [
+    {
+      "label": "khmer",
+      "code": "km",
+      "percent": 95.8,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "minority languages",
+      "code": null,
+      "percent": 2.9,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "chinese",
+      "code": "zh",
+      "percent": 0.6,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "vietnamese",
+      "code": "vi",
+      "percent": 0.5,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "KI": [
+    {
+      "label": "gilbertese",
+      "code": "gil",
+      "percent": null,
+      "official": false,
+      "position": 1
+    }
+  ],
+  "KM": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "shikomoro",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "comoria",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "KP": [
+    {
+      "label": "korea",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    }
+  ],
+  "KR": [
+    {
+      "label": "korean",
+      "code": "ko",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "KW": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english widely spoke",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "KY": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 88.8,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 3.9,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "filipino",
+      "code": "fil",
+      "percent": 3.8,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 2.8,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "KZ": [
+    {
+      "label": "kazakh",
+      "code": "kk",
+      "percent": 80.1,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 83.7,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "LA": [
+    {
+      "label": "lao",
+      "code": "lo",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "various ethnic language",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "LB": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "armenia",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "LC": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "saint lucian creol",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "LI": [
+    {
+      "label": "german",
+      "code": "de",
+      "percent": 91.5,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": 1.5,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "turkish",
+      "code": "tr",
+      "percent": 1.3,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 1.1,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "LK": [
+    {
+      "label": "sinhala",
+      "code": "si",
+      "percent": 87.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "tamil",
+      "code": "ta",
+      "percent": 28.5,
+      "official": true,
+      "position": 2
+    }
+  ],
+  "LR": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 20.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "including liberian english variant",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "LS": [
+    {
+      "label": "sesotho",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "phuthi",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "xhosa",
+      "code": "xh",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "zul",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "LT": [
+    {
+      "label": "lithuanian",
+      "code": "lt",
+      "percent": 85.3,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 6.8,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "polish",
+      "code": "pl",
+      "percent": 5.1,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 1.1,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "LU": [
+    {
+      "label": "luxembourgish",
+      "code": "lb",
+      "percent": 48.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 15.4,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 14.9,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": 3.6,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 3.6,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "german",
+      "code": "de",
+      "percent": 2.9,
+      "official": true,
+      "position": 6
+    }
+  ],
+  "LV": [
+    {
+      "label": "latvian",
+      "code": "lv",
+      "percent": 56.3,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 33.8,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 0.6,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "LY": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "MA": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "tamazight languages",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "tachelhit",
+      "code": "shi",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "tarifit",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "MC": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "monegasqu",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "MD": [
+    {
+      "label": "moldovan",
+      "code": null,
+      "percent": 80.2,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 9.7,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "gagauz",
+      "code": "gag",
+      "percent": 4.2,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "ukrainian",
+      "code": "uk",
+      "percent": 3.9,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "bulgarian",
+      "code": "bg",
+      "percent": 1.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "romani",
+      "code": null,
+      "percent": 0.3,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "ME": [
+    {
+      "label": "serbian",
+      "code": "sr",
+      "percent": 42.9,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "montenegrin",
+      "code": null,
+      "percent": 37.0,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "bosnian",
+      "code": "bs",
+      "percent": 5.3,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "albanian",
+      "code": "sq",
+      "percent": 5.3,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "serbo-croat",
+      "code": null,
+      "percent": 2.0,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 3.5,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "MF": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "dutch",
+      "code": "nl",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "guadeloupian creole",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "haitian creole",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": null,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "papiamento",
+      "code": "pap",
+      "percent": null,
+      "official": false,
+      "position": 8
+    }
+  ],
+  "MG": [
+    {
+      "label": "malagasy",
+      "code": "mg",
+      "percent": 99.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 23.6,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 8.2,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "MH": [
+    {
+      "label": "marshallese",
+      "code": "mh",
+      "percent": 98.2,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "MK": [
+    {
+      "label": "macedonian",
+      "code": "mk",
+      "percent": 61.4,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "albanian",
+      "code": "sq",
+      "percent": 24.3,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "turkish",
+      "code": "tr",
+      "percent": 3.4,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "romani",
+      "code": null,
+      "percent": 1.7,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 2.0,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "ML": [
+    {
+      "label": "bambara",
+      "code": "bm",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 17.2,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "peuhl",
+      "code": null,
+      "percent": 9.4,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "dogon",
+      "code": null,
+      "percent": 7.2,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "maraka",
+      "code": null,
+      "percent": 6.4,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "malinke",
+      "code": null,
+      "percent": 5.6,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "sonrhai",
+      "code": null,
+      "percent": 5.6,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "minianka",
+      "code": null,
+      "percent": 4.3,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "tamacheq",
+      "code": null,
+      "percent": 3.5,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "senoufo",
+      "code": null,
+      "percent": 2.6,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "bobo",
+      "code": null,
+      "percent": 2.1,
+      "official": false,
+      "position": 11
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 6.3,
+      "official": false,
+      "position": 12
+    }
+  ],
+  "MN": [
+    {
+      "label": "mongolian",
+      "code": "mn",
+      "percent": 90.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "turkic",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "MO": [
+    {
+      "label": "cantonese",
+      "code": "yue",
+      "percent": 81.0,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "mandarin",
+      "code": null,
+      "percent": 4.7,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "other chinese dialects",
+      "code": null,
+      "percent": 5.4,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 3.6,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "tagalog",
+      "code": "tl",
+      "percent": 2.9,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 0.6,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "MP": [
+    {
+      "label": "philippine languages",
+      "code": null,
+      "percent": 32.8,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "chamorro",
+      "code": "ch",
+      "percent": 24.1,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 17.0,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "other pacific island languages",
+      "code": null,
+      "percent": 10.1,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "chinese",
+      "code": "zh",
+      "percent": 6.8,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "other asian languages",
+      "code": null,
+      "percent": 7.3,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "MR": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "pular",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "soninke",
+      "code": "snk",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "wolof",
+      "code": "wo",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "frenc",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "MS": [
+    {
+      "label": "englis",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    }
+  ],
+  "MT": [
+    {
+      "label": "maltese",
+      "code": "mt",
+      "percent": 90.1,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 6.0,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "multilingual",
+      "code": null,
+      "percent": 3.0,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "MU": [
+    {
+      "label": "creole",
+      "code": null,
+      "percent": 86.5,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "bhojpuri",
+      "code": "bho",
+      "percent": 5.3,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 4.1,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "two languages",
+      "code": null,
+      "percent": 1.4,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 2.6,
+      "official": true,
+      "position": 5
+    }
+  ],
+  "MV": [
+    {
+      "label": "dhivehi",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "MW": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "chewa",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "lambya",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "lomwe",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "ngoni",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "nyanja",
+      "code": "ny",
+      "percent": null,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "sena",
+      "code": "seh",
+      "percent": null,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "tumbuka",
+      "code": "tum",
+      "percent": null,
+      "official": false,
+      "position": 11
+    }
+  ],
+  "MX": [
+    {
+      "label": "spanish only",
+      "code": "es",
+      "percent": 93.8,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "spanish and indigenous languages",
+      "code": null,
+      "percent": 5.4,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "indigenous only",
+      "code": null,
+      "percent": 0.6,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "MY": [
+    {
+      "label": "bahasa malaysia",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "chinese",
+      "code": "zh",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "tamil",
+      "code": "ta",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "telugu",
+      "code": "te",
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "malayalam",
+      "code": "ml",
+      "percent": null,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "MZ": [
+    {
+      "label": "makhuwa",
+      "code": null,
+      "percent": 26.1,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 16.6,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "tsonga",
+      "code": "ts",
+      "percent": 8.6,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "nyanja",
+      "code": "ny",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "sena",
+      "code": "seh",
+      "percent": 7.1,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "lomwe",
+      "code": null,
+      "percent": 7.1,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "chuwabo",
+      "code": null,
+      "percent": 4.7,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "ndau",
+      "code": null,
+      "percent": 3.8,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "tswa",
+      "code": null,
+      "percent": 3.8,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "other mozambican languages",
+      "code": null,
+      "percent": 11.8,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 0.5,
+      "official": false,
+      "position": 11
+    }
+  ],
+  "NA": [
+    {
+      "label": "oshiwambo languages",
+      "code": null,
+      "percent": 49.7,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "nama",
+      "code": "naq",
+      "percent": 11.0,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "kavango languages",
+      "code": null,
+      "percent": 10.4,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "afrikaans",
+      "code": "af",
+      "percent": 9.4,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "herero languages",
+      "code": null,
+      "percent": 9.2,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "zambezi languages",
+      "code": null,
+      "percent": 4.9,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 2.3,
+      "official": true,
+      "position": 7
+    },
+    {
+      "label": "other african languages",
+      "code": null,
+      "percent": 1.5,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "other european languages",
+      "code": null,
+      "percent": 0.7,
+      "official": false,
+      "position": 9
+    }
+  ],
+  "NC": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "33 melanesian-polynesian dialect",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "NE": [
+    {
+      "label": "hausa",
+      "code": "ha",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "zarma",
+      "code": "dje",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "fufulde",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "tamashek",
+      "code": "tmh",
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "kanuri",
+      "code": "kr",
+      "percent": null,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "NF": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 44.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "norfolk",
+      "code": null,
+      "percent": 40.3,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "fijian",
+      "code": "fj",
+      "percent": 1.8,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 6.8,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "NG": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "hausa",
+      "code": "ha",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "yoruba",
+      "code": "yo",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "igbo",
+      "code": "ig",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "fulani",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "NI": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 99.5,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "indigenous",
+      "code": null,
+      "percent": 0.3,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 0.1,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "NL": [
+    {
+      "label": "dutch",
+      "code": "nl",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "NO": [
+    {
+      "label": "bokmal norwegian",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "nynorsk norwegian",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "small sami- and finnish-speaking minoritie",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "NP": [
+    {
+      "label": "nepali",
+      "code": "ne",
+      "percent": 44.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "maithali",
+      "code": null,
+      "percent": 11.1,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "bhojpuri",
+      "code": "bho",
+      "percent": 6.2,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "tharu",
+      "code": null,
+      "percent": 5.9,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "tamang",
+      "code": null,
+      "percent": 4.9,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "bajjika",
+      "code": null,
+      "percent": 3.9,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "avadhi",
+      "code": null,
+      "percent": 3.0,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "nepalbhasha",
+      "code": null,
+      "percent": 3.0,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "magar dhut",
+      "code": null,
+      "percent": 2.8,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "doteli",
+      "code": null,
+      "percent": 1.7,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "urdu",
+      "code": "ur",
+      "percent": 1.4,
+      "official": false,
+      "position": 11
+    },
+    {
+      "label": "yakthung",
+      "code": null,
+      "percent": 1.2,
+      "official": false,
+      "position": 12
+    },
+    {
+      "label": "gurung",
+      "code": null,
+      "percent": 1.1,
+      "official": false,
+      "position": 13
+    }
+  ],
+  "NR": [
+    {
+      "label": "nauruan",
+      "code": null,
+      "percent": 93.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 2.0,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "NU": [
+    {
+      "label": "niuean",
+      "code": "niu",
+      "percent": 46.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "niuean and english",
+      "code": null,
+      "percent": 32.0,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 11.0,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "niuean and others",
+      "code": null,
+      "percent": 5.0,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "NZ": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 95.4,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "maori",
+      "code": "mi",
+      "percent": 4.0,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "samoan",
+      "code": "sm",
+      "percent": 2.2,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "northern chinese",
+      "code": null,
+      "percent": 2.0,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "hindi",
+      "code": "hi",
+      "percent": 1.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 1.2,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "yue",
+      "code": null,
+      "percent": 1.1,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "new zealand sign language",
+      "code": null,
+      "percent": 0.5,
+      "official": true,
+      "position": 8
+    }
+  ],
+  "OM": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "baluchi",
+      "code": "bal",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "swahili",
+      "code": "sw",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "urdu",
+      "code": "ur",
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "PA": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "indigenous languages",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "buglere",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "kuna",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "embera",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "chinese",
+      "code": "zh",
+      "percent": null,
+      "official": false,
+      "position": 11
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": false,
+      "position": 12
+    }
+  ],
+  "PE": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 82.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "quechua",
+      "code": "qu",
+      "percent": 13.6,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "aymara",
+      "code": "ay",
+      "percent": 1.6,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "ashaninka",
+      "code": null,
+      "percent": 0.3,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "other native languages",
+      "code": null,
+      "percent": 0.8,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 0.2,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "none",
+      "code": null,
+      "percent": 0.1,
+      "official": false,
+      "position": 7
+    }
+  ],
+  "PF": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 73.5,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "tahitian",
+      "code": "ty",
+      "percent": 20.1,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "marquesan",
+      "code": null,
+      "percent": 2.6,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "austral languages",
+      "code": null,
+      "percent": 1.2,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "paumotu",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "PG": [
+    {
+      "label": "tok pisin",
+      "code": "tpi",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "hiri motu",
+      "code": "ho",
+      "percent": null,
+      "official": true,
+      "position": 3
+    }
+  ],
+  "PH": [
+    {
+      "label": "tagalog",
+      "code": "tl",
+      "percent": 39.9,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "bisaya",
+      "code": null,
+      "percent": 16.0,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "hiligaynon",
+      "code": "hil",
+      "percent": 7.3,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "ilocano",
+      "code": null,
+      "percent": 7.1,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "cebuano",
+      "code": "ceb",
+      "percent": 6.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "bikol",
+      "code": "bik",
+      "percent": 3.9,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "waray",
+      "code": "war",
+      "percent": 2.6,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "kapampangan",
+      "code": null,
+      "percent": 2.4,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "maguindanao",
+      "code": null,
+      "percent": 1.4,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "pangasinan",
+      "code": "pag",
+      "percent": 1.3,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "other languages",
+      "code": null,
+      "percent": 11.2,
+      "official": false,
+      "position": 11
+    }
+  ],
+  "PK": [
+    {
+      "label": "punjabi",
+      "code": "pa",
+      "percent": 38.8,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "pashto",
+      "code": "ps",
+      "percent": 18.2,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "sindhi",
+      "code": "sd",
+      "percent": 14.6,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "saraiki",
+      "code": null,
+      "percent": 12.2,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "urdu",
+      "code": "ur",
+      "percent": 7.1,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "balochi",
+      "code": null,
+      "percent": 3.0,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "hindko",
+      "code": null,
+      "percent": 2.4,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "brahui",
+      "code": "brh",
+      "percent": 1.2,
+      "official": false,
+      "position": 8
+    }
+  ],
+  "PL": [
+    {
+      "label": "polish",
+      "code": "pl",
+      "percent": 98.2,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "silesian",
+      "code": "szl",
+      "percent": 1.4,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 1.1,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "PN": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "PR": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "englis",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "PS": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "hebrew",
+      "code": "he",
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "PT": [
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "PW": [
+    {
+      "label": "palauan",
+      "code": "pau",
+      "percent": 65.2,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "other micronesian",
+      "code": null,
+      "percent": 1.9,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 19.1,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "filipino",
+      "code": "fil",
+      "percent": 9.9,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "chinese",
+      "code": "zh",
+      "percent": 1.2,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "PY": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 46.3,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "only guarani",
+      "code": "gn",
+      "percent": 34.0,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "only spanish",
+      "code": "es",
+      "percent": 15.2,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 4.1,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "QA": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english commonly used as a second languag",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "RO": [
+    {
+      "label": "romanian",
+      "code": "ro",
+      "percent": 91.6,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "hungarian",
+      "code": "hu",
+      "percent": 6.3,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "romani",
+      "code": null,
+      "percent": 1.2,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "RS": [
+    {
+      "label": "serbian",
+      "code": "sr",
+      "percent": 88.1,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "hungarian",
+      "code": "hu",
+      "percent": 3.4,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "bosnian",
+      "code": "bs",
+      "percent": 1.9,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "romani",
+      "code": null,
+      "percent": 1.4,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 3.4,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "RU": [
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 85.7,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "tatar",
+      "code": "tt",
+      "percent": 3.2,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "chechen",
+      "code": "ce",
+      "percent": 1.0,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "RW": [
+    {
+      "label": "kinyarwanda",
+      "code": "rw",
+      "percent": 93.2,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 0.1,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 0.1,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "swahili",
+      "code": "sw",
+      "percent": 0.1,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "more than one language",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 6.3,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "SB": [
+    {
+      "label": "melanesian pidgin",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 1.0,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "120 indigenous language",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "SC": [
+    {
+      "label": "seychellois creole",
+      "code": null,
+      "percent": 89.1,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 5.1,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 0.7,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 3.8,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "SD": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "nubian",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "ta bedawie",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "fu",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "SG": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 48.3,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "mandarin",
+      "code": null,
+      "percent": 29.9,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "other chinese dialects",
+      "code": null,
+      "percent": 8.7,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "malay",
+      "code": "ms",
+      "percent": 9.2,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "tamil",
+      "code": "ta",
+      "percent": 2.5,
+      "official": true,
+      "position": 5
+    }
+  ],
+  "SH": [
+    {
+      "label": "englis",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    }
+  ],
+  "SI": [
+    {
+      "label": "slovene",
+      "code": null,
+      "percent": 87.7,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "croatian",
+      "code": "hr",
+      "percent": 2.8,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "serbo-croatian",
+      "code": "sh",
+      "percent": 1.8,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "bosnian",
+      "code": "bs",
+      "percent": 1.6,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "serbian",
+      "code": "sr",
+      "percent": 1.6,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "hungarian",
+      "code": "hu",
+      "percent": 0.4,
+      "official": true,
+      "position": 6
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": 0.2,
+      "official": true,
+      "position": 7
+    }
+  ],
+  "SJ": [
+    {
+      "label": "norwegian",
+      "code": "no",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "russia",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "SK": [
+    {
+      "label": "slovak",
+      "code": "sk",
+      "percent": 81.8,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "hungarian",
+      "code": "hu",
+      "percent": 8.5,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "roma",
+      "code": null,
+      "percent": 1.8,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 2.2,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "SL": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "mende",
+      "code": "men",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "temne",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "SM": [
+    {
+      "label": "italia",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 1
+    }
+  ],
+  "SN": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "wolof",
+      "code": "wo",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "pulaar",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "jola",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "mandinka",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "serer",
+      "code": "srr",
+      "percent": null,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "SO": [
+    {
+      "label": "somali",
+      "code": "so",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "englis",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "SR": [
+    {
+      "label": "dutch",
+      "code": "nl",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "sranang tongo",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "caribbean hindustani",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "javanes",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "SS": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "ethnic languages include dinka",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "nuer",
+      "code": "nus",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "bari",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "ST": [
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 98.4,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "forro",
+      "code": null,
+      "percent": 36.2,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "cabo verdian",
+      "code": null,
+      "percent": 8.5,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 6.8,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "angolar",
+      "code": null,
+      "percent": 6.6,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 4.9,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "lunguie",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 7
+    }
+  ],
+  "SV": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "SX": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 67.5,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 12.9,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "creole",
+      "code": null,
+      "percent": 8.2,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "dutch",
+      "code": "nl",
+      "percent": 4.2,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "papiamento",
+      "code": "pap",
+      "percent": 2.2,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 1.5,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "SY": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "kurdish",
+      "code": "ku",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "armenian",
+      "code": "hy",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "aramaic",
+      "code": "arc",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "circassian",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "SZ": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    }
+  ],
+  "TD": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "sara",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "more than",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "TG": [
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "ewe and mina",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "TH": [
+    {
+      "label": "thai",
+      "code": "th",
+      "percent": 90.7,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "thai and other languages",
+      "code": null,
+      "percent": 6.4,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "TJ": [
+    {
+      "label": "tajik",
+      "code": "tg",
+      "percent": 84.4,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "uzbek",
+      "code": "uz",
+      "percent": 11.9,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "kyrgyz",
+      "code": "ky",
+      "percent": 0.8,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 0.5,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "TK": [
+    {
+      "label": "tokelauan",
+      "code": null,
+      "percent": 88.1,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 48.6,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "samoan",
+      "code": "sm",
+      "percent": 26.7,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "tuvaluan",
+      "code": null,
+      "percent": 11.2,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "kiribati",
+      "code": null,
+      "percent": 1.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 2.8,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "none",
+      "code": null,
+      "percent": 2.8,
+      "official": false,
+      "position": 7
+    }
+  ],
+  "TL": [
+    {
+      "label": "tetun prasa",
+      "code": null,
+      "percent": 30.6,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "mambai",
+      "code": null,
+      "percent": 16.6,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "makasai",
+      "code": null,
+      "percent": 10.5,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "tetun terik",
+      "code": null,
+      "percent": 6.1,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "baikenu",
+      "code": null,
+      "percent": 5.9,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "kemak",
+      "code": null,
+      "percent": 5.8,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "bunak",
+      "code": null,
+      "percent": 5.5,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "tokodede",
+      "code": null,
+      "percent": 4.0,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "fataluku",
+      "code": null,
+      "percent": 3.5,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "waima",
+      "code": null,
+      "percent": 1.8,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "galoli",
+      "code": null,
+      "percent": 1.4,
+      "official": false,
+      "position": 11
+    },
+    {
+      "label": "naueti",
+      "code": null,
+      "percent": 1.4,
+      "official": false,
+      "position": 12
+    },
+    {
+      "label": "idate",
+      "code": null,
+      "percent": 1.2,
+      "official": false,
+      "position": 13
+    },
+    {
+      "label": "midiki",
+      "code": null,
+      "percent": 1.2,
+      "official": false,
+      "position": 14
+    }
+  ],
+  "TM": [
+    {
+      "label": "turkmen",
+      "code": "tk",
+      "percent": 72.0,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 12.0,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "uzbek",
+      "code": "uz",
+      "percent": 9.0,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "TN": [
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "tamazigh",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "TO": [
+    {
+      "label": "tongan only",
+      "code": "to",
+      "percent": 85.0,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "tongan and other language",
+      "code": null,
+      "percent": 13.9,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "TR": [
+    {
+      "label": "turkish",
+      "code": "tr",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "kurdish",
+      "code": "ku",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "other minority language",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "TT": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "trinidadian creole english",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "tobagonian creole english",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "caribbean hindustani",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "trinidadian creole french",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": null,
+      "official": false,
+      "position": 6
+    }
+  ],
+  "TV": [
+    {
+      "label": "tuvaluan",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "samoan",
+      "code": "sm",
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "TW": [
+    {
+      "label": "mandarin",
+      "code": null,
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "min nan",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "hakka dialects",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "approximately",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "TZ": [
+    {
+      "label": "kiswahili or swahili",
+      "code": "sw",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "kiunguja",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "arabic",
+      "code": "ar",
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "many local language",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "UA": [
+    {
+      "label": "ukrainian",
+      "code": "uk",
+      "percent": 67.5,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 29.6,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "UG": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "ganda or luganda",
+      "code": "lg",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "other niger-congo languages",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "nilo-saharan languages",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "swahili",
+      "code": "sw",
+      "percent": null,
+      "official": true,
+      "position": 5
+    }
+  ],
+  "US": [
+    {
+      "label": "english only",
+      "code": "en",
+      "percent": 78.2,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 13.4,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "chinese",
+      "code": "zh",
+      "percent": 1.1,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "UZ": [
+    {
+      "label": "uzbek",
+      "code": "uz",
+      "percent": 74.3,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "russian",
+      "code": "ru",
+      "percent": 14.2,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "tajik",
+      "code": "tg",
+      "percent": 4.4,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "VA": [
+    {
+      "label": "italian",
+      "code": "it",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "latin",
+      "code": "la",
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": null,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "various other language",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "VC": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": null,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "vincentian creole english",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "french patoi",
+      "code": null,
+      "percent": null,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "VE": [
+    {
+      "label": "spanish",
+      "code": "es",
+      "percent": 98.2,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "indigenous",
+      "code": null,
+      "percent": 1.3,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "portuguese",
+      "code": "pt",
+      "percent": 0.1,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "VG": [
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 71.6,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "spanish or spanish creole",
+      "code": "es",
+      "percent": 17.2,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "french or french creole",
+      "code": "fr",
+      "percent": 8.6,
+      "official": false,
+      "position": 3
+    }
+  ],
+  "VN": [
+    {
+      "label": "vietnamese",
+      "code": "vi",
+      "percent": null,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "chinese",
+      "code": "zh",
+      "percent": null,
+      "official": false,
+      "position": 2
+    }
+  ],
+  "VU": [
+    {
+      "label": "indigenous languages",
+      "code": null,
+      "percent": 82.6,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "bislama",
+      "code": "bi",
+      "percent": 14.5,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 2.1,
+      "official": true,
+      "position": 3
+    }
+  ],
+  "WF": [
+    {
+      "label": "wallisian",
+      "code": null,
+      "percent": 58.9,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "futunian",
+      "code": null,
+      "percent": 30.1,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "french",
+      "code": "fr",
+      "percent": 10.8,
+      "official": true,
+      "position": 3
+    }
+  ],
+  "WS": [
+    {
+      "label": "samoan",
+      "code": "sm",
+      "percent": 91.1,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "samoan",
+      "code": "sm",
+      "percent": 6.7,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 0.5,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 0.2,
+      "official": false,
+      "position": 4
+    }
+  ],
+  "XK": [
+    {
+      "label": "albanian",
+      "code": "sq",
+      "percent": 94.5,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "bosnian",
+      "code": "bs",
+      "percent": 1.7,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "serbian",
+      "code": "sr",
+      "percent": 1.6,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "turkish",
+      "code": "tr",
+      "percent": 1.1,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 0.9,
+      "official": false,
+      "position": 5
+    }
+  ],
+  "ZA": [
+    {
+      "label": "isizulu or zulu",
+      "code": "zu",
+      "percent": 25.3,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "isixhosa or xhosa",
+      "code": "xh",
+      "percent": 14.8,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "afrikaans",
+      "code": "af",
+      "percent": 12.2,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "sepedi or pedi",
+      "code": null,
+      "percent": 10.1,
+      "official": true,
+      "position": 4
+    },
+    {
+      "label": "setswana or tswana",
+      "code": "tn",
+      "percent": 9.1,
+      "official": true,
+      "position": 5
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 8.1,
+      "official": true,
+      "position": 6
+    },
+    {
+      "label": "sesotho or sotho",
+      "code": null,
+      "percent": 7.9,
+      "official": true,
+      "position": 7
+    },
+    {
+      "label": "xitsonga or tsonga",
+      "code": "ts",
+      "percent": 3.6,
+      "official": true,
+      "position": 8
+    },
+    {
+      "label": "siswati or swati",
+      "code": "ss",
+      "percent": 2.8,
+      "official": true,
+      "position": 9
+    },
+    {
+      "label": "tshivenda or venda",
+      "code": "ve",
+      "percent": 2.5,
+      "official": true,
+      "position": 10
+    },
+    {
+      "label": "isindebele or ndebele",
+      "code": null,
+      "percent": 1.6,
+      "official": true,
+      "position": 11
+    }
+  ],
+  "ZM": [
+    {
+      "label": "bemba",
+      "code": "bem",
+      "percent": 33.4,
+      "official": false,
+      "position": 1
+    },
+    {
+      "label": "nyanja",
+      "code": "ny",
+      "percent": 14.7,
+      "official": false,
+      "position": 2
+    },
+    {
+      "label": "tonga",
+      "code": null,
+      "percent": 11.4,
+      "official": false,
+      "position": 3
+    },
+    {
+      "label": "lozi",
+      "code": "loz",
+      "percent": 5.5,
+      "official": false,
+      "position": 4
+    },
+    {
+      "label": "chewa",
+      "code": null,
+      "percent": 4.5,
+      "official": false,
+      "position": 5
+    },
+    {
+      "label": "nsenga",
+      "code": null,
+      "percent": 2.9,
+      "official": false,
+      "position": 6
+    },
+    {
+      "label": "tumbuka",
+      "code": "tum",
+      "percent": 2.5,
+      "official": false,
+      "position": 7
+    },
+    {
+      "label": "lunda",
+      "code": "lun",
+      "percent": 1.9,
+      "official": false,
+      "position": 8
+    },
+    {
+      "label": "kaonde",
+      "code": null,
+      "percent": 1.8,
+      "official": false,
+      "position": 9
+    },
+    {
+      "label": "lala",
+      "code": null,
+      "percent": 1.8,
+      "official": false,
+      "position": 10
+    },
+    {
+      "label": "lamba",
+      "code": "lam",
+      "percent": 1.8,
+      "official": false,
+      "position": 11
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 1.7,
+      "official": true,
+      "position": 12
+    },
+    {
+      "label": "luvale",
+      "code": null,
+      "percent": 1.5,
+      "official": false,
+      "position": 13
+    },
+    {
+      "label": "mambwe",
+      "code": null,
+      "percent": 1.3,
+      "official": false,
+      "position": 14
+    },
+    {
+      "label": "namwanga",
+      "code": null,
+      "percent": 1.2,
+      "official": false,
+      "position": 15
+    },
+    {
+      "label": "lenje",
+      "code": null,
+      "percent": 1.1,
+      "official": false,
+      "position": 16
+    },
+    {
+      "label": "bisa",
+      "code": null,
+      "percent": 1.0,
+      "official": false,
+      "position": 17
+    },
+    {
+      "label": "other",
+      "code": null,
+      "percent": 9.7,
+      "official": false,
+      "position": 18
+    }
+  ],
+  "ZW": [
+    {
+      "label": "shona",
+      "code": "sn",
+      "percent": 80.9,
+      "official": true,
+      "position": 1
+    },
+    {
+      "label": "ndebele",
+      "code": null,
+      "percent": 11.5,
+      "official": true,
+      "position": 2
+    },
+    {
+      "label": "english",
+      "code": "en",
+      "percent": 0.3,
+      "official": true,
+      "position": 3
+    },
+    {
+      "label": "13 minority languages (official; includes chewa, chibarwe, kalanga, koisan, nambya, ndau, shangani, sign language, sotho, tonga, tswana, venda, and xhosa) 7%",
+      "code": null,
+      "percent": 7.0,
+      "official": true,
+      "position": 4
+    }
+  ]
+}
